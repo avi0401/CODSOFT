@@ -1,4 +1,4 @@
 # CODSOFT
 my first project
 <br>
-Author - Avikam Rana
+Author - Avikam singh Rana
